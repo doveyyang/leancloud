@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TuNanNiao.LeanCloudStudy", "TuNanNiao.LeanCloudStudy\TuNanNiao.LeanCloudStudy.csproj", "{1AA7E653-A7D4-43ED-BFD7-B21542BAB800}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TuNanNiao.LeanCloudStudy.Tests", "TuNanNiao.LeanCloudStudy.Tests\TuNanNiao.LeanCloudStudy.Tests.csproj", "{9C63B358-3E62-4683-9E30-F13AD71816E5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1AA7E653-A7D4-43ED-BFD7-B21542BAB800}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AA7E653-A7D4-43ED-BFD7-B21542BAB800}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AA7E653-A7D4-43ED-BFD7-B21542BAB800}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AA7E653-A7D4-43ED-BFD7-B21542BAB800}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C63B358-3E62-4683-9E30-F13AD71816E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C63B358-3E62-4683-9E30-F13AD71816E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C63B358-3E62-4683-9E30-F13AD71816E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C63B358-3E62-4683-9E30-F13AD71816E5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DF704C38-2A90-4156-9A6B-5541EC1D3213}
+	EndGlobalSection
+EndGlobal
