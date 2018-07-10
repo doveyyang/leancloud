@@ -1,0 +1,7 @@
+E:\Code\TuNanNiao\LeanCloudStudy\TuNanNiao.LeanCloudStudy\TuNanNiao.LeanCloudStudy.Console\bin\Debug\TuNanNiao.LeanCloudStudy.Console.exe.config
+E:\Code\TuNanNiao\LeanCloudStudy\TuNanNiao.LeanCloudStudy\TuNanNiao.LeanCloudStudy.Console\bin\Debug\TuNanNiao.LeanCloudStudy.Console.exe
+E:\Code\TuNanNiao\LeanCloudStudy\TuNanNiao.LeanCloudStudy\TuNanNiao.LeanCloudStudy.Console\bin\Debug\TuNanNiao.LeanCloudStudy.Console.pdb
+E:\Code\TuNanNiao\LeanCloudStudy\TuNanNiao.LeanCloudStudy\TuNanNiao.LeanCloudStudy.Console\obj\Debug\TuNanNiao.LeanCloudStudy.Console.csprojResolveAssemblyReference.cache
+E:\Code\TuNanNiao\LeanCloudStudy\TuNanNiao.LeanCloudStudy\TuNanNiao.LeanCloudStudy.Console\obj\Debug\TuNanNiao.LeanCloudStudy.Console.csproj.CoreCompileInputs.cache
+E:\Code\TuNanNiao\LeanCloudStudy\TuNanNiao.LeanCloudStudy\TuNanNiao.LeanCloudStudy.Console\obj\Debug\TuNanNiao.LeanCloudStudy.Console.exe
+E:\Code\TuNanNiao\LeanCloudStudy\TuNanNiao.LeanCloudStudy\TuNanNiao.LeanCloudStudy.Console\obj\Debug\TuNanNiao.LeanCloudStudy.Console.pdb
